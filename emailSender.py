@@ -4,9 +4,9 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-sender = 'msdewittcrypto@gmail.com'
-receiversEmail = ['msdewittdev@gmail.com']
-receiversPhone = ['8126318962@vtext.com']
+sender = 'example@gmail.com'
+receiversEmail = ['example@gmail.com']
+receiversPhone = ['example@vtext.com']
 
 def sendEmail(message, simpleMessage):
     # ", ".join(receivers)

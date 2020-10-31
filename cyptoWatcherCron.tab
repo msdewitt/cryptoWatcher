@@ -1,3 +1,4 @@
 MAILTO=msdewittdev@gmail.com
 * * * * * python /Users/poteuse/PycharmProjects/cyptoWatcher/watcher.py >> /Users/poteuse/PycharmProjects/cyptoWatcher/cryptoWatcherCron.log
 * * * * * python /Users/poteuse/PycharmProjects/cyptoWatcher/watcher.py >> /Users/poteuse/PycharmProjects/cyptoWatcher/cryptoWatcherCron.log
+* * * * * * 12 * * * python /Users/poteuse/PycharmProjects/cyptoWatcher/watcher.py >> /Users/poteuse/PycharmProjects/cyptoWatcher/cryptoWatcherCron.log
