@@ -1,0 +1,29 @@
+{u'status': {u'notice': None, u'credit_count': 1, u'timestamp': u'2020-10-30T20:06:01.261Z', u'error_message': None, u'elapsed': 18, u'error_code': 0}, u'data': {u'THETA': {u'is_fiat': 0, u'last_updated': u'2020-10-30T20:05:05.000Z', u'platform': None, u'name': u'THETA', u'tags': [u'media', u'collectibles-nfts', u'content-creation', u'video'], u'quote': {u'USD': {u'market_cap': 614382895.1479, u'last_updated': u'2020-10-30T20:05:05.000Z', u'percent_change_7d': -2.90644304, u'price': 0.6143828951479, u'percent_change_24h': 1.50883464, u'volume_24h': 35281534.04243014, u'percent_change_1h': 0.69142986}}, u'symbol': u'THETA', u'is_active': 1, u'slug': u'theta', u'total_supply': 1000000000, u'num_market_pairs': 39, u'max_supply': None, u'circulating_supply': 1000000000, u'cmc_rank': 32, u'date_added': u'2018-01-17T00:00:00.000Z', u'id': 2416}, u'LINK': {u'is_fiat': 0, u'last_updated': u'2020-10-30T20:04:06.000Z', u'platform': {u'symbol': u'ETH', u'token_address': u'0x514910771af9ca656af840dff83e8264ecf986ca', u'id': 1027, u'slug': u'ethereum', u'name': u'Ethereum'}, u'name': u'Chainlink', u'tags': [u'platform', u'defi', u'oracles', u'smart-contracts', u'substrate', u'polkadot'], u'quote': {u'USD': {u'market_cap': 4349140353.417293, u'last_updated': u'2020-10-30T20:04:06.000Z', u'percent_change_7d': -5.82170133, u'price': 11.15136868229106, u'percent_change_24h': -1.56049501, u'volume_24h': 1604759103.9208064, u'percent_change_1h': -0.18677104}}, u'symbol': u'LINK', u'is_active': 1, u'slug': u'chainlink', u'total_supply': 1000000000, u'num_market_pairs': 366, u'max_supply': None, u'circulating_supply': 390009556.4344445, u'cmc_rank': 6, u'date_added': u'2017-09-20T00:00:00.000Z', u'id': 1975}, u'BTC': {u'is_fiat': 0, u'last_updated': u'2020-10-30T20:04:02.000Z', u'platform': None, u'name': u'Bitcoin', u'tags': [u'mineable', u'pow', u'sha-256', u'store-of-value', u'state-channels'], u'quote': {u'USD': {u'market_cap': 250846179135.15063, u'last_updated': u'2020-10-30T20:04:02.000Z', u'percent_change_7d': 5.36332499, u'price': 13537.305660889922, u'percent_change_24h': -0.13800989, u'volume_24h': 29913951693.97281, u'percent_change_1h': 0.20853774}}, u'symbol': u'BTC', u'is_active': 1, u'slug': u'bitcoin', u'total_supply': 18529993, u'num_market_pairs': 9146, u'max_supply': 21000000, u'circulating_supply': 18529993, u'cmc_rank': 1, u'date_added': u'2013-04-28T00:00:00.000Z', u'id': 1}}}
+Name: Bitcoin
+Market Price: $13537.3056609
+Market Cap: $2.50846179135e+11
+Last Updated: 2020-10-30T20:04:02.000Z
+Percent Change In Last 7d: 5.36332499
+Percent Change In Last 24h: -0.13800989
+Percent Change In Last 1h: 0.20853774
+
+
+Name: Chainlink
+Market Price: $11.1513686823
+Market Cap: $4349140353.42
+Last Updated: 2020-10-30T20:04:06.000Z
+Percent Change In Last 7d: -5.82170133
+Percent Change In Last 24h: -1.56049501
+Percent Change In Last 1h: -0.18677104
+
+
+Name: THETA
+Market Price: $0.614382895148
+Market Cap: $614382895.148
+Last Updated: 2020-10-30T20:05:05.000Z
+Percent Change In Last 7d: -2.90644304
+Percent Change In Last 24h: 1.50883464
+Percent Change In Last 1h: 0.69142986
+
+
+Error: Unable to send email to target recipient
